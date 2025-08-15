@@ -1,0 +1,66 @@
+name: jeremy.blanda
+description: analyzer
+version: 0.0.1
+author: tqh3ktuq.bvzfzyof@njv2pfnr.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: jeremyblanda
+  parentArtefactID: tqh3ktuqbvzfzyofnjv2pfnrcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:34:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:34:39'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:34:39.082345Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '50658741'
+  createdAt: '2025-08-15T20:34:39.082345Z'
+  type: plibMaven
+projectDependencies:
+  '255':
+    projectUID: 255
+    projectName: sang.von
+    repositoryPath: gitUri=http://gitserver:3000/dev_f4hxnYTV_team_428/dev_f4hxnYTV_project_255.git&subPath=
+    version: sang.von/1.5.165
+    isDefault: false
+    author: null
+    createdAt: '2025-08-15 20:34:35'
+  '264':
+    projectUID: 264
+    projectName: angelo.nitzsche
+    repositoryPath: gitUri=http://gitserver:3000/dev_f4hxnYTV_team_428/dev_TUWIq7eO_project_264.git&subPath=
+    version: angelo.nitzsche/7.0.8.71
+    isDefault: false
+    author: null
+    createdAt: '2025-08-15 20:34:39'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
